@@ -1,6 +1,6 @@
 # 🎧 Spotify-Analysis-PowerBI
 
-Power BI dashboard created using Spotify “Top 50” dataset to analyze song performance, artist popularity, trends, and music insights using interactive visualizations.
+Power BI dashboard created using Spotify dataset to analyze song performance, artist popularity, trends, and music insights using interactive visualizations.
 
 ---
 
